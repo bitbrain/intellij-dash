@@ -1,4 +1,5 @@
 # intellij-dash
+
 Inspired IntelliJ theme based on [Atom Dash](https://atom.io/packages/dash-ui) by [cpsdqs](https://atom.io/users/cpsdqs).
 
 ![screenshot](screenshot.png)
